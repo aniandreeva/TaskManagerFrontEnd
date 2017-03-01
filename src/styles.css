@@ -1,0 +1,26 @@
+body {
+  background: #f8f8f8;
+}
+
+th {
+  width: 15%;
+}
+
+.id-column{
+  width: 5%;
+}
+
+.fa {
+  font-size: 14px;
+  padding: 0 5px;
+}
+
+.fa.fa-info:hover {
+  color: #6aa3ff;
+}
+.fa.fa-pencil:hover {
+  color: #12a217;
+}
+.fa.fa-trash:hover {
+  color: red;
+}
